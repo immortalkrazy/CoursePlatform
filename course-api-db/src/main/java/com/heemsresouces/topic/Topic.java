@@ -1,4 +1,4 @@
-package com.heemsresouces.entity;
+package com.heemsresouces.topic;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

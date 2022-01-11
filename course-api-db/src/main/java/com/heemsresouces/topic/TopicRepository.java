@@ -1,8 +1,6 @@
-package com.heemsresouces.repository;
+package com.heemsresouces.topic;
 
 import org.springframework.data.repository.CrudRepository;
-
-import com.heemsresouces.entity.Topic;
 
 public interface TopicRepository extends CrudRepository<Topic, String> {
 

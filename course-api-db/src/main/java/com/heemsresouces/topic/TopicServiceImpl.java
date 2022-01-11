@@ -1,4 +1,4 @@
-package com.heemsresouces.service;
+package com.heemsresouces.topic;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,9 +6,6 @@ import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
-import com.heemsresouces.entity.Topic;
-import com.heemsresouces.repository.TopicRepository;
 
 @Service
 public class TopicServiceImpl implements TopicService {

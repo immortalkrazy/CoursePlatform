@@ -1,11 +1,9 @@
-package com.heemsresouces.service;
+package com.heemsresouces.topic;
 
 import java.util.List;
 import java.util.Optional;
 
 import org.springframework.stereotype.Service;
-
-import com.heemsresouces.entity.Topic;
 
 @Service
 public interface TopicService {
